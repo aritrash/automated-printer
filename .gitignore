@@ -1,0 +1,26 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Logs
+shared/logs/
+*.log
+
+# Data and temp files
+shared/data/input/
+shared/data/output/
+shared/temp/
+shared/.DS_Store
+
+# VSCode settings (if any)
+.vscode/
+*.code-workspace
+
+# Environment files
+.env
+*.env
+
+# Python virtual env
+venv/
+.env/
+.venv/
